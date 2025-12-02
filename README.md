@@ -26,8 +26,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=dracula" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Feroan101&theme=dracula" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=nord" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Feroan101&theme=nord" height="160" />
 </div>
 
 <br />
