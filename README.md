@@ -15,10 +15,10 @@
     I specialize in crafting responsive web applications and full-stack platforms using modern JavaScript, HTML5, and CSS3. Currently building Enmero Technologies—turning ideas into production-ready solutions with GitHub Pages, custom domains, and clean, performant code. Passionate about rapid prototyping and emerging technologies like Kotlin for Android and AI integration.
   </p>
 
-  <a href="https://enmero.in">
-    <img src="https://img.shields.io/badge/Portfolio-Enmero.in-2563eb?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://feroan101.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Feroan-2563eb?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:feroanmothy666@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-007acc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div> 
