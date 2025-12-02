@@ -26,8 +26,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Feroan101&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=10b981" height="160" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Feroan101&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=2563eb" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=dracula" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Feroan101&theme=dracula" height="160" />
 </div>
 
 <br />
