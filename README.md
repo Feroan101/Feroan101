@@ -26,8 +26,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=10b981" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feroan101&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=2563eb" height="160" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Feroan101&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=10b981" height="160" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Feroan101&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=2563eb" height="160" />
 </div>
 
 <br />
@@ -50,7 +50,7 @@
 
 <h2 align="center">📊 Contribution Streak</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroan101&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Feroan101&theme=github-dark&hide_border=true" /> 
 </div>
 
 <br />
