@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   welcome, since you’re already here
-</h3>
+</h2>
 
 <p align="center">
    i write code, break it, and try to understand why it broke
