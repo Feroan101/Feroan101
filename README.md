@@ -61,9 +61,9 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 - working on small projects that connect multiple domains
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&hide_title=true
+  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&show_icons=true&hide_border=true" />
 </p>
-    
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
