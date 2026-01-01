@@ -65,8 +65,9 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Feroan101&label=someone%20was%20here&color=2f2f2f&style=flat"
-    alt="profile views"
+    src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/assets/solarized-dark.svg"
+    alt="abstract graph"
+    width="420"
   />
 </p>
 
