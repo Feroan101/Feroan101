@@ -64,6 +64,10 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 - working on small projects that connect multiple domains
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Feroan101&theme=github_dark" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
   <img
     src="https://img.shields.io/badge/status-active%20but%20quiet-2f2f2f?style=flat"
     alt="status badge"
