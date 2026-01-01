@@ -27,8 +27,11 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&show_icons=true&hide_title=true&hide_border=true&theme=default" height="150"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=solarized_dark"
+    alt="profile details"/>
 </p>
+
 
 ### what i work with
 
@@ -61,8 +64,12 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 - working on small projects that connect multiple domains
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&show_icons=true&hide_border=true" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Feroan101&theme=solarized_dark"
+    alt="github stats"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
