@@ -28,7 +28,7 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=solarized_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=github-dark"
     alt="profile details"/>
 </p>
 
@@ -64,12 +64,18 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 - working on small projects that connect multiple domains
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Feroan101&theme=solarized_dark"
-    alt="github stats"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Feroan101&theme=github-dark&hide_border=true&area=true"
+    alt="activity graph"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Feroan101&color=2f2f2f&style=flat"
+    alt="profile views"
+  />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
