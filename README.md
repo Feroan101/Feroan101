@@ -1,9 +1,9 @@
-<h1 align="center">
-  Feroan Mothy
-</h1>
+<h3 align="center">
+  welcome, since you’re already here
+</h3>
 
 <p align="center">
-  Software Developer · Systems Curious · Builds Things End-to-End
+   i write code, break it, and try to understand why it broke
 </p>
 
 <p align="center">
@@ -17,61 +17,54 @@
 
 ---
 
-### About
+### about
 
-I’m someone who likes understanding how things work under the hood.
+mostly into building things and figuring out how they work under the hood.  
+not tied to a single role or stack, just whatever gets the job done cleanly.
 
-I work across different layers of software, from low-level systems and virtual machines to web interfaces and tooling. I don’t lock myself into a single role or stack; I learn what the problem needs and build from there.
-
-Current interests include language design, virtual machines, systems programming, and pragmatic web development.
-
----
-
-### Technical Experience
-
-**Languages**
-- C (systems, VM/runtime work)
-- JavaScript (frontend & tooling)
-- Python (scripting, experiments)
-- Kotlin (Android exploration)
-
-**Systems & Low-Level**
-- Virtual machine design
-- Bytecode execution models
-- Stack-based runtimes
-- Memory handling in C
-- Linux-based development workflows
-
-**Web & UI**
-- HTML, CSS, JavaScript
-- React (when needed, not by default)
-- Performance-focused frontend design
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Linux (Fedora)
-- GCC / GDB
-
----
-
-### Hardware & Hands-On Work
-
-- Microcontrollers & sensors (Arduino / ESP-class projects)
-- Basic electronics and prototyping
-- Comfortable bridging software with hardware logic
-
----
-
-### Active Work
-
-- **Enor** — a stack-based programming language  
-- **Cradle** — a custom virtual machine powering Enor  
-- Assorted experiments in systems, tooling, and UI
+i move between web stuff, tooling, systems-ish experiments, and the occasional hardware project. learning is usually the point.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&show_icons=true&hide_title=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feroan101&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&show_icons=true&hide_title=true&hide_border=true&theme=default" height="150"/>
 </p>
+
+### what i work with
+
+**programming**
+- python (django, utility scripts, a few libraries)
+- c / embedded c (microcontrollers, low-level logic)
+- javascript (frontend, tooling)
+
+**systems & environments**
+- linux machines (daily driver)
+- bash scripting
+- git & github
+- gcc and basic debugging workflows
+
+**hardware**
+- raspberry pi (linux, automation, experiments)
+- arduino (sensors, control logic)
+- basic electronics and prototyping
+
+**backend & infra**
+- django (auth, APIs, backend logic)
+- firebase (auth, realtime db, hosting)
+
+---
+
+### currently
+
+- improving fundamentals across software + hardware
+- experimenting with systems concepts with <a href="github.com/Feroan101/Enor">Enor</a>
+- working on small projects that connect multiple domains
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Feroan101&hide_title=true
+</p>
+    
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
