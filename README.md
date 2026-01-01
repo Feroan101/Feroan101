@@ -65,14 +65,6 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 
 <p align="center">
   <img
-    src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/assets/solarized-dark.svg"
-    alt="abstract graph"
-    width="420"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://img.shields.io/badge/status-active%20but%20quiet-2f2f2f?style=flat"
     alt="status badge"
   />
