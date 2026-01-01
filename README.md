@@ -28,7 +28,7 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=github-dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feroan101&theme=github_dark"
     alt="profile details"/>
 </p>
 
@@ -65,15 +65,15 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Feroan101&theme=github-dark&hide_border=true&area=true"
-    alt="activity graph"
+    src="https://komarev.com/ghpvc/?username=Feroan101&label=someone%20was%20here&color=2f2f2f&style=flat"
+    alt="profile views"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Feroan101&color=2f2f2f&style=flat"
-    alt="profile views"
+    src="https://img.shields.io/badge/status-active%20but%20quiet-2f2f2f?style=flat"
+    alt="status badge"
   />
 </p>
 
