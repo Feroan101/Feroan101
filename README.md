@@ -60,7 +60,7 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 ### currently
 
 - improving fundamentals across software + hardware
-- experimenting with systems concepts with <a href="github.com/Feroan101/Enor">Enor</a>
+- experimenting with systems concepts with Enor
 - working on small projects that connect multiple domains
 
 <p align="center">
