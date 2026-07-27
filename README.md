@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://feroan101.github.io/My-Portfolio/">
+  <a href="https://feroan.is-a.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Feroan-2563eb?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:feroanmothy666@gmail.com">
