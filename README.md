@@ -32,19 +32,29 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
     alt="profile details"/>
 </p>
 
-
 ### what i work with
 
 **programming**
-- python (django, utility scripts, a few libraries)
-- c / embedded c (microcontrollers, low-level logic)
-- javascript (frontend, tooling)
+- python
+- Java
+- C / embedded C
+- Javascript / Typescript
 
 **systems & environments**
 - linux machines (daily driver)
 - bash scripting
 - git & github
-- gcc and basic debugging workflows
+- GCC / LLVM toolchains
+
+**AI & inference**
+- PyTorch
+- CUDA
+- vLLM
+- Ollama
+- Hugging Face
+- RAG & agent systems
+- LangChain / LangGraph
+- Streamlit
 
 **hardware**
 - raspberry pi (linux, automation, experiments)
@@ -53,15 +63,21 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 
 **backend & infra**
 - django (auth, APIs, backend logic)
+- FastAPI
+- Gradio
 - firebase (auth, realtime db, hosting)
+- Docker
+- Supabase
+- PostgreSQL
 
 ---
 
-### currently
+### things i like breaking
 
-- improving fundamentals across software + hardware
-- experimenting with systems concepts with Enor
-- working on small projects that connect multiple domains
+- abstractions that hide what's actually happening
+- software that needs to talk to the machine
+- AI systems that forget everything between sessions
+- tools that make developers do repetitive work
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Feroan101&theme=github_dark" alt="GitHub streak stats" />
@@ -77,4 +93,3 @@ i move between web stuff, tooling, systems-ish experiments, and the occasional h
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
-
